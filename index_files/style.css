@@ -1053,7 +1053,7 @@ input, select {
 	height: 50px;
 	line-height: 50px;
 	text-align: center;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/q_li.jpg) no-repeat left center;
+	background: url(./q_li.jpeg) no-repeat left center;
 }
 .q1 a, .q2 a, .q3 a, .q4 a {
 	display: inline-block;
