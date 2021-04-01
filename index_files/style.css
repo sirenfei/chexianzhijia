@@ -102,7 +102,7 @@ input, select {
 	width: 77px;
 	height: 41px;
 	float: left;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/search.png) no-repeat left top;
+	background: url(./search.png) no-repeat left top;
 	text-align: center;
 	line-height: 41px;
 	color: #fff;
