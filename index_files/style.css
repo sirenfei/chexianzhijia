@@ -289,7 +289,7 @@ input, select {
 	position: absolute;
 	right: 0;
 	top: 0;
-	background: url(./search.) no-repeat left center;
+	background: url(./search.jpeg) no-repeat left center;
 	border: 0;
 }
 /*end*/
@@ -814,7 +814,7 @@ input, select {
 	width: 100%;
 	padding: 22px;
 	min-height: 150px;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/s_li.png) no-repeat right bottom;
+	background: url(./s_li.png) no-repeat right bottom;
 }
 .select_item_con h3 {
 	width: 100%;
