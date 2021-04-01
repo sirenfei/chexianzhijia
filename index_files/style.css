@@ -289,7 +289,7 @@ input, select {
 	position: absolute;
 	right: 0;
 	top: 0;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/search.jpg) no-repeat left center;
+	background: url(./search.) no-repeat left center;
 	border: 0;
 }
 /*end*/
@@ -765,7 +765,7 @@ input, select {
 	font-size: 24px;
 	color: #333;
 	padding-right: 28px;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/pro_li.png) no-repeat right center;
+	background: url(./pro_li.png) no-repeat right center;
 }
 .pro_item_title h4 {
 	float: left;
