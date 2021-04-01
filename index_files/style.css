@@ -545,31 +545,31 @@ input, select {
 .t1 i {
 	width: 60px;
 	height: 60px;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/u1.png) no-repeat center center;
+	background: url(./u1.png) no-repeat center center;
 	display: block;
 }
 .t2 i {
 	width: 60px;
 	height: 60px;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/online.png) no-repeat center center;
+	background: url(./online.png) no-repeat center center;
 	display: block;
 }
 .t3 i {
 	width: 60px;
 	height: 60px;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/u3.png) no-repeat center center;
+	background: url(./u3.png) no-repeat center center;
 	display: block;
 }
 .t4 i {
 	width: 60px;
 	height: 60px;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/wechat.png) no-repeat center center;
+	background: url(./wechat.png) no-repeat center center;
 	display: block;
 }
 .t5 i {
 	width: 60px;
 	height: 60px;
-	background: url(http://zf032109.demo.kangjingept.com/skin/images/top.png) no-repeat center center;
+	background: url(./top.png) no-repeat center center;
 	display: block;
 }
 /*flash*/
